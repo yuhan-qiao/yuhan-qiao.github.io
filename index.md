@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Yuhan Qiao (John, 乔禹涵)**.<br>
 
 I am a PhD student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
@@ -19,9 +19,9 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Research Interests
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Internet of Agents
+- rumor detection
 - Wireless Communication
-- Federated Learning
+- Semi-Supervised Learning
 - Graph Representation
 
 ---
