@@ -9,24 +9,15 @@ title: Publications
 ## Journal Paper
 
 - A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection<br>**Yuhan Qiao**, Chaoqun Cui, Yiying Wang, Caiyan Jia\*<br>
-_Neurocomputing_, Aug 2024.(SCI, IF = 6.5, JCR **Q1*)
-[**pdf**](https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf)[**code**](https://github.com/yuhan-qiao/RDST)
+_Neurocomputing_(SCI, IF = 6.5, JCR **Q1**), Aug 2024<br>
+[[**pdf**]](https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf) [[**code**]](https://github.com/yuhan-qiao/RDST)
 
-- [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
-
-  
-
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to IEEE Communications Standards Magazine.<br>
-
-  
-
-- Perspectives on Visual Analytics for Advancing Imaginative Intelligence<br>Xiangxuan Zhang, **Hanlin Cai**, Xumeng Wang~<br>Submitted to Visual Informatics.<br>
-
-  <br>
+- Rumor Detection on Social Media based on Graph Contrastive Self-Supervised Learning (in Chinese)<br>**Yuhan Qiao**, Caiyan Jia\*<br>
+_Journal of Nanjing University (Natural Sciences)_, Sep 2023<br>
+(Originally presented orally at the 19th China Conference on Machine Learning (CCML 2023), later recommended for journal publication)<br>
+[[**pdf**]](https://yuhan-qiao.github.io/mypaper/journal/nanjing.pdf)<br>
 
 ## Conference Paper
-
-- Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents (Submitted to IEEE ICC 2026).
 
 - [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.<br>
 
@@ -39,26 +30,6 @@ _Neurocomputing_, Aug 2024.(SCI, IF = 6.5, JCR **Q1*)
 - SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.<br><br>
 
 
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics.
-
-  <br>
-
----
-
 ## Degree Thesis
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks](https://caihanlin.com/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Ozgur B. Akan).<br>Thesis awarded Distinction.
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu).<br>Best Bachelor Thesis Award (Top 1/300).<br>
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia).<br>Industrial Placement at China Fujian Huading Tech.<br>
-
-  <br>
-
-<br>
+- Research on Rumor Detection Methods based on Graph Representation Learning (in Chinese)[[**pdf**]](https://yuhan-qiao.github.io/mypaper/thesis/Master_thesis.pdf)<br>**Yuhan Qiao** (Advisor: Caiyan Jia).<br>
