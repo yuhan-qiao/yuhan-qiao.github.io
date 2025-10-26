@@ -18,11 +18,10 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- rumor detection
-- Wireless Communication
-- Semi-Supervised Learning
-- Graph Representation
+- Graph Representation Learning
+- Misinformation/Rumor/Fake News Detection
+- Semi-supervised Learning
+- Self-Supervised Learning
 
 ---
 

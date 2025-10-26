@@ -4,9 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (\: corresponding author)
 
 ## Journal Paper
+
+- A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection<br>**Yuhan Qiao**, Chaoqun Cui, Yiying Wang, Caiyan Jia\*<br>
+_Neurocomputing_, Aug 2024.(SCI, IF = 6.5, JCR **Q1*)
+[**pdf**](https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf)[**code**](https://github.com/yuhan-qiao/RDST)
 
 - [Graph Representation-based Model Poisoning on Federated Large Language Models](https://arxiv.org/abs/2507.01694)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Ozgur B. Akan~<br>Submitted to IEEE Communications Magazine.<br>
 
