@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuhan-qiao.github.io/qyh2.jpg" class="floatpic">
+<img src="https://yuhan-qiao.github.io/qyh6.jpg" class="floatpic">
 
 Here is **Yuhan Qiao (John, 乔禹涵)**.<br>
 
@@ -12,7 +12,7 @@ I am a PhD student in the [Internet of Everything Group](https://ioe.eng.cam.ac.
 
 Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuhan.qiao.bjtu@gmail.com**
 
 ---
 
