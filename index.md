@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuhan-qiao.github.io/qyh4.jpg" class="floatpic">
+<img src="https://yuhan-qiao.github.io/qyh2.jpg" class="floatpic">
 
 Here is **Yuhan Qiao (John, 乔禹涵)**.<br>
 
