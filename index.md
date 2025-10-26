@@ -2,9 +2,9 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
-<img src="https://yuhan-qiao.github.io/qyh6.jpg" class="floatpic">
+<img src="https://yuhan-qiao.github.io/qyh5.jpg" class="floatpic">
 
 Here is **Yuhan Qiao (John, 乔禹涵)**.<br>
 
