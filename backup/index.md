@@ -14,7 +14,7 @@ Currently, I am taking a gap year to further prepare for my Ph.D. studies, and I
 
 To work toward this goal, I have dedicated significant effort to improving my English proficiency. Over the past year after graduation, I studied intensively for the TOEFL exam and took it four times, eventually achieving a score of 106 (Reading 30, Listening 26, Speaking 23, Writing 27).
 
-Honestly, I consider myself a dedicated, reliable, and steady person with strong perseverance and a never-give-up attitude. I am always open to learning new knowledge and believe in continuous lifelong learning. I hope to find a Ph.D. supervisor whose research interests align with mine and whose personality is compatible, so that we can work together at the forefront of research. I am eager to begin my doctoral journey as soon as possible and continue growing as a researcher.
+Honestly speaking, I consider myself a dedicated, reliable, and steady person with strong perseverance and a never-give-up attitude. I am always open to learning new knowledge and believe in continuous lifelong learning. I hope to find a Ph.D. supervisor whose research interests align with mine and whose personality is compatible, so that we can work together at the forefront of research. I am eager to begin my doctoral journey as soon as possible and continue growing as a researcher.
 
 If you are interested in any aspect of me, I am always open to discussions. Feel free to contact me at **yuhan.qiao.bjtu@gmail.com**
 
@@ -28,9 +28,8 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 
 ---
 
-#### News and Updates
+## News and Updates
 
-- **Oct 2025**：I am currently seeking Ph.D. opportunities worldwide!
-- **Oct 2025**：My personal academic website is now online!
+- **Oct 2025**：My personal academic website is now online. I am currently seeking Ph.D. opportunities worldwide!
 
 <br>
