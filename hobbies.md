@@ -6,11 +6,19 @@ title: Hobbies
 
 ## Hobbies
 
-## Singing & Concert
+#### Reading, Writing Blogs & Meditation
+<br>
+I enjoy reading beyond my academic field, keeping reading notes, and writing blog posts. I have a broad interest in history, psychology, and traditional Chinese philosophy. Through reading, I seek a better understanding of my inner self — how my emotions work and how to live in harmony with my own mind.
+
+I truly enjoy the process of reading; it often brings me a sense of calm, peace, and quiet joy. I’m also interested in Buddhist and Zen philosophy, and I often practice meditation as a way to clear my mind and release stress. I like to write down my reflections and share my thoughts on my personal blog. If my writings can inspire or help others in any way, that makes me genuinely happy.
+
+You’re welcome to follow my WeChat public account: CowboyJohnny.
+
+#### Singing & Concert
 
 <img src="/images/sing1.jpg" class="floatpic">
 
-In my personal life, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party (as shown above).
+<br>In addition, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party (as shown above).
 <div class="half">
 <img src="/images/sing22.png">
 <img src="/images/sing33.png">
@@ -27,10 +35,6 @@ In my personal life, I have a deep passion for music, which I believe can expres
 
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
 
 ## My Cat
 
