@@ -4,18 +4,16 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
+## Hobbies
 
-# Hobbies
-
-## Swimming & Surfing
+## Singing & Concert
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/sing1.JPG">
+<img src="/images/sing3.PNG">
+<img src="/images/sing4.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>In my personal life, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party (as shown above).
 
 ## Workshop
 
