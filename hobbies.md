@@ -28,5 +28,5 @@ You’re welcome to follow my **WeChat public account**: **_CowboyJohnny_**, whe
 
 <img src="/images/sing11.jpg" class="floatpic" width="200">
 
-<br>In addition, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party (as shown below).<br>
+<br>In addition, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party.<br>
 <br>
