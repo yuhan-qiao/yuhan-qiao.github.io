@@ -2,19 +2,20 @@
 layout: page
 ---
 
-## Yuhan Qiao (John, 乔禹涵)
+#### Yuhan Qiao
 
 <img src="https://yuhan-qiao.github.io/qyh6.jpg" class="floatpic">
 
-I am a PhD student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+Here is Yuhan Qiao (John, 乔禹涵). I received my Master's degree in Computer Science & Technology from Beijing JiaoTong University in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/). Before that, I obtained my Bachelor's degree in Infomation Engineering from China University of Mining & Technology (Beijing). 
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+My previous research focused on **graph representation learning** with an emphasis on improving model generalization and robustness through **self-supervised** and **semi-supervised learning** approaches. Specifically, I explored applying these methods to the task of **rumor (misinformation) detection**, where labled data is often scarce. To address this challenge, I proposed a self-training framework aided by graph self-supervised pre-training, which enables joint learning from labeled and unlabeled rumor data and achieves significant performance improvements at low cost. This work was published in _Neurocomputing_ in 2024, titled “[A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection](https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf).” This work also forms the core of my [master’s thesis](https://yuhan-qiao.github.io/mypaper/thesis/Master_thesis.pdf), which further explores the role of self-supervised pre-training in graph-based rumor detection.
+
 
 If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuhan.qiao.bjtu@gmail.com**
 
 ---
 
-## Research Interests
+#### Research Interests
 
 - Graph Representation Learning
 - Misinformation/Rumor/Fake News Detection
