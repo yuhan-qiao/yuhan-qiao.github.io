@@ -9,9 +9,9 @@ title: Hobbies
 ## Singing & Concert
 
 <div class="third">
-<img src="/images/sing1.JPG">
-<img src="/images/sing3.PNG">
-<img src="/images/sing4.JPG">
+<img src="/images/sing1.jpg">
+<img src="/images/sing3.png">
+<img src="/images/sing4.jpg">
 </div>
 <br>In my personal life, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party (as shown above).
 
