@@ -113,25 +113,24 @@ title: 托福自学百分攻略(万字长文)
 
 听力学习其他方法技巧和推荐资源：
 - 学习方法
+    - [史蒂夫·考夫曼 如何提高听力——Steve Kaufmann How To Improve Your Listening Skills](https://www.bilibili.com/video/BV1bq4y1V7cD/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)：
 
- - [史蒂夫·考夫曼 如何提高听力——Steve Kaufmann How To Improve Your Listening Skills](https://www.bilibili.com/video/BV1bq4y1V7cD/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)：
-
- - [【TED科普】重复在语言学习中的重要性！斯蒂夫·考夫曼](https://www.bilibili.com/video/BV1tHzHY1Eje/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+    - [【TED科普】重复在语言学习中的重要性！斯蒂夫·考夫曼](https://www.bilibili.com/video/BV1tHzHY1Eje/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
 - 学科背景补充
 
- - [胡萝卜奶酪5767——托福学科听力](https://space.bilibili.com/385506086?spm_id_from=333.788.upinfo.detail.click)
+    - [胡萝卜奶酪5767——托福学科听力](https://space.bilibili.com/385506086?spm_id_from=333.788.upinfo.detail.click)
 
- - [MeowAcademy——托福学科分类背景知识](https://www.bilibili.com/video/BV1WA4m157Qj/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+    - [MeowAcademy——托福学科分类背景知识](https://www.bilibili.com/video/BV1WA4m157Qj/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
- - [宇宙时空之旅（纪录片）](https://www.bilibili.com/bangumi/play/ep320676?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0)
+    - [宇宙时空之旅（纪录片）](https://www.bilibili.com/bangumi/play/ep320676?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0)
 
 
 - 抗干扰
 
- - [托福环境音](https://www.bilibili.com/video/BV1fm4y1x7az/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+    - [托福环境音](https://www.bilibili.com/video/BV1fm4y1x7az/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
-- APP
+APP
 
 托福TPO精听（绿色图标），缺点是都是TPO的文章（1-75），使用起来方便没广告，适合通勤路上、起床后睡觉前等碎片时间随时听，也可以单句精听跟读（练习综合口语也会用到）。
 
@@ -181,9 +180,7 @@ title: 托福自学百分攻略(万字长文)
 换个角度想，托福其实没那么重要，只是现在这个内卷的环境下，分数成了衡量人最简单粗暴的标准。托福并不是英语学习的终点，它只不过是检验人英语水平的其中一种形式，托福能考高分不一定英语水平就很高。现在考完我依然觉得自己听力口语很菜。所以即使托福考过了，以后英语的学习仍然有很长的路要走。放下这个包袱，越不把托福当回事，越不在乎这个分数，最后的结果反而会越好。
 
 一些对心态有帮助的资源：
-
 - [杰哥的心态急救指南](https://mp.weixin.qq.com/s/azLqJXSYtvqpJicuKQjRYQ)
-
 
 - [Marcsims——[特别篇]我看了8个月的留学咨询，最严重的问题——机心太重](https://www.bilibili.com/video/BV1Gg4y1W7Zj/?spm_id_from=333.1387.upload.video_card.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
