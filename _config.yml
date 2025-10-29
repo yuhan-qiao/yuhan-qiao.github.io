@@ -134,6 +134,6 @@ plugins:
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
   # - jekyll-archives      # Year/month archive pages
 
-minimal_mistakes_skin: default
+
 custom_css:
   - /assets/css/custom.css

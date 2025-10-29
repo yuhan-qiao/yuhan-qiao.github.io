@@ -1,14 +1,44 @@
-.masthead__menu-item a {
-  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  font-weight: 500;
-  letter-spacing: 0.5px;
-  text-transform: none; /* 不要全部大写 */
-  color: #222; /* 字体颜色，可根据背景调整 */
+.masthead__menu-item a,
+.masthead__menu-item a:visited {
+  font-family: "Source Sans Pro", "Inter", "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.4px !important;
+  text-transform: none !important;
+  color: #222 !important;
 }
 
-/* 鼠标悬停效果 */
+/* 鼠标悬停 */
 .masthead__menu-item a:hover {
-  color: #007acc;
-  text-decoration: none;
+  color: #0a66c2 !important;
+}
+
+/* 调整导航间距 */
+.masthead__menu {
+  gap: 18px !important;
+}
+
+/* 全站各级标题字体 */
+h1, .post__title, .page__title {
+  font-family: "Merriweather", "Georgia", serif !important;
+  font-weight: 600 !important;
+  font-size: 2.0rem !important;
+}
+
+h2 {
+  font-family: "Merriweather", "Georgia", serif !important;
+  font-weight: 600 !important;
+  font-size: 1.6rem !important;
+}
+
+h3 {
+  font-family: "Source Sans Pro", "Inter", sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 1.25rem !important;
+}
+
+/* 兼容性：保证图片和布局不受影响 */
+img {
+  max-width: 100%;
+  height: auto;
 }
