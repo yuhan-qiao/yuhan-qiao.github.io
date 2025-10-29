@@ -1,0 +1,14 @@
+.masthead__menu-item a {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: none; /* 不要全部大写 */
+  color: #222; /* 字体颜色，可根据背景调整 */
+}
+
+/* 鼠标悬停效果 */
+.masthead__menu-item a:hover {
+  color: #007acc;
+  text-decoration: none;
+}

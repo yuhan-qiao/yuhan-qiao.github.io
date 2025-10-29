@@ -49,8 +49,7 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: CV
-    url: /files/cv.pdf
+
   #- title: Awards
   #  url: /awards/
   - title: Hobbies
@@ -59,6 +58,8 @@ links:
     url: /blogs/
   #- title: 中文
   #  url: /cn/
+  - title: CV
+    url: /files/cv.pdf
 
 
 # --------------------------------------------------
@@ -133,3 +134,6 @@ plugins:
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
   # - jekyll-archives      # Year/month archive pages
 
+minimal_mistakes_skin: default
+custom_css:
+  - /assets/css/custom.css
