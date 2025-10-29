@@ -1,45 +1,67 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lora:wght@500;600&display=swap');
-.masthead {
-  background-color: #ffffff; /* 白色背景 */
-  border-bottom: 1px solid #e5e5e5;
-  padding-top: 8px;
-  padding-bottom: 8px;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Lora:wght@500;700&display=swap');
+
+/* ========== 针对 site-name（左上网站名） ========== */
+.navigation-wrapper .site-name,
+.navigation-wrapper .site-name a {
+  font-family: "Lora", "Georgia", serif !important;   /* 标题用衬线，学术感 */
+  font-size: 20px !important;                         /* 字号，可按需调 */
+  font-weight: 700 !important;
+  color: #111111 !important;
+  text-decoration: none !important;
+  letter-spacing: 0.2px !important;
+  line-height: 1 !important;
 }
 
-/* 导航栏字体样式 */
-.masthead__menu-item a {
-  font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 500;
-  color: #222222;
-  letter-spacing: 0.3px;
-  text-transform: none;  /* 不全大写 */
-  transition: color 0.25s ease, transform 0.2s ease;
+/* 去掉可能的默认小写/大写转换 */
+.navigation-wrapper .site-name a {
+  text-transform: none !important;
+}
+
+/* ========== 顶部导航（menu）整体布局调整 ========== */
+.navigation-wrapper .top-navigation nav ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  gap: 18px !important;               /* 菜单项间距 */
+  align-items: center !important;
+}
+
+/* ========== 顶部导航链接样式 ========== */
+.navigation-wrapper .top-navigation nav ul li a,
+.navigation-wrapper .top-navigation nav ul li a:visited {
+  font-family: "Inter", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !important;
+  font-size: 15.5px !important;
+  font-weight: 500 !important;
+  color: #222222 !important;
+  letter-spacing: 0.3px !important;
+  text-transform: none !important;
+  padding: 6px 4px !important;
+  display: inline-block !important;
+  transition: color 0.18s ease, transform 0.12s ease !important;
+  text-decoration: none !important;
 }
 
 /* 鼠标悬停效果 */
-.masthead__menu-item a:hover {
-  color: #0056b3;       /* 深蓝色悬停 */
-  transform: translateY(-1px);
-  text-decoration: none;
+.navigation-wrapper .top-navigation nav ul li a:hover {
+  color: #0056b3 !important;
+  transform: translateY(-1px) !important;
+  text-decoration: none !important;
 }
 
-/* 当前页面高亮（如果主题支持 active 类） */
-.masthead__menu-item a.active,
-.masthead__menu-item a[aria-current="page"] {
-  color: #007acc;
-  font-weight: 600;
+/* 当前页面高亮（你示例里 class 是 top-navigation-current） */
+.navigation-wrapper .top-navigation nav ul li a.top-navigation-current,
+.navigation-wrapper .top-navigation nav ul li a[aria-current="page"] {
+  color: #007acc !important;
+  font-weight: 600 !important;
+  border-bottom: 2px solid #007acc !important;
+  padding-bottom: 4px !important;
 }
 
-/* 让导航栏文字稍微更紧凑 */
-.masthead__menu-item {
-  margin-right: 20px;
-}
-
-/* 导航栏标题（网站名） */
-.site-title {
-  font-family: "Lora", Georgia, serif;
-  font-weight: 600;
-  font-size: 20px;
-  color: #111111;
+/* 如果菜单在小屏时变成垂直显示，确保仍然有间距 */
+@media (max-width: 800px) {
+  .navigation-wrapper .top-navigation nav ul {
+    flex-direction: column !important;
+    gap: 8px !important;
+  }
 }
