@@ -113,19 +113,15 @@ title: 托福自学百分攻略
 
 听力学习其他方法技巧和推荐资源：
 - 学习方法
-
 [史蒂夫·考夫曼 如何提高听力——Steve Kaufmann How To Improve Your Listening Skills](https://www.bilibili.com/video/BV1bq4y1V7cD/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)：
 
 [【TED科普】重复在语言学习中的重要性！斯蒂夫·考夫曼](https://www.bilibili.com/video/BV1tHzHY1Eje/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
-
 
 - 学科背景补充
 
 [胡萝卜奶酪5767——托福学科听力](https://space.bilibili.com/385506086?spm_id_from=333.788.upinfo.detail.click)
 
-
 [MeowAcademy——托福学科分类背景知识](https://www.bilibili.com/video/BV1WA4m157Qj/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
-
 
 [宇宙时空之旅（纪录片）](https://www.bilibili.com/bangumi/play/ep320676?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0)
 
@@ -140,6 +136,7 @@ title: 托福自学百分攻略
 
 ### 口语
 相比前两科，我口语写作练得时间很少，只是拿到了23分的基础分。对于总分目标100+，口语拿到23分左右即可。**推荐老师**：
+
 1.[吴奇老师的脱口秀](https://space.bilibili.com/473498779?spm_id_from=333.337.0.0)
 
 2.[huge托福口语虎哥](https://space.bilibili.com/15871434?spm_id_from=333.337.search-card.all.click)
