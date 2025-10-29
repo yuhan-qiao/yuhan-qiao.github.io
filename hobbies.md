@@ -7,10 +7,11 @@ title: Hobbies
 ## Hobbies
 
 #### Reading, Writing Blogs & Meditation
-<div>
-<img src="/images/medi4.jpg">
-</div>
+<center>
+<img src="/images/medi4.jpg" width="80%">
+</center>
 <br>
+
 I enjoy reading beyond my academic field, keeping reading notes, and writing blog posts. I have a broad interest in **history**, **psychology**, and traditional Chinese **philosophy**. Through reading, I seek a better understanding of my inner self — how my emotions work and how to live in harmony with my own mind.
 
 I truly enjoy the process of reading; it often brings me a sense of calm, peace, and quiet joy. I’m also interested in Buddhist and Zen philosophy, and I often practice meditation as a way to clear my mind and release stress. I like to write down my reflections and share my thoughts on my personal blog. If my writings can inspire or help others in any way, that makes me genuinely happy.

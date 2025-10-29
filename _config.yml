@@ -17,13 +17,13 @@ owner:
   avatar: avatar4.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: yuhan.qiao.bjtu@gmail.com
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://yuhan-qiao.github.io/files/cv.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  github: yuhan-qiao
+  linkedin: 禹涵-乔-414b81378
+  scholar: https://scholar.google.com/citations?user=8d0nEIkAAAAJ&hl=zh-CN&oi=ao
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
   # xiaohongshu: 5c27848f0000000005030c6f
@@ -49,6 +49,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: CV
+    url: /files/cv.pdf
   #- title: Awards
   #  url: /awards/
   - title: Hobbies
