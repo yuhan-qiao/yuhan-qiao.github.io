@@ -113,22 +113,23 @@ title: 托福自学百分攻略(万字长文)
 
 听力学习其他方法技巧和推荐资源：
 - 学习方法
-[史蒂夫·考夫曼 如何提高听力——Steve Kaufmann How To Improve Your Listening Skills](https://www.bilibili.com/video/BV1bq4y1V7cD/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)：
 
-[【TED科普】重复在语言学习中的重要性！斯蒂夫·考夫曼](https://www.bilibili.com/video/BV1tHzHY1Eje/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+ - [史蒂夫·考夫曼 如何提高听力——Steve Kaufmann How To Improve Your Listening Skills](https://www.bilibili.com/video/BV1bq4y1V7cD/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)：
+
+ - [【TED科普】重复在语言学习中的重要性！斯蒂夫·考夫曼](https://www.bilibili.com/video/BV1tHzHY1Eje/?spm_id_from=333.337.search-card.all.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
 - 学科背景补充
 
-[胡萝卜奶酪5767——托福学科听力](https://space.bilibili.com/385506086?spm_id_from=333.788.upinfo.detail.click)
+ - [胡萝卜奶酪5767——托福学科听力](https://space.bilibili.com/385506086?spm_id_from=333.788.upinfo.detail.click)
 
-[MeowAcademy——托福学科分类背景知识](https://www.bilibili.com/video/BV1WA4m157Qj/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+ - [MeowAcademy——托福学科分类背景知识](https://www.bilibili.com/video/BV1WA4m157Qj/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
-[宇宙时空之旅（纪录片）](https://www.bilibili.com/bangumi/play/ep320676?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0)
+ - [宇宙时空之旅（纪录片）](https://www.bilibili.com/bangumi/play/ep320676?spm_id_from=333.337.0.0&from_spmid=666.25.episode.0)
 
 
 - 抗干扰
 
-[托福环境音](https://www.bilibili.com/video/BV1fm4y1x7az/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+ - [托福环境音](https://www.bilibili.com/video/BV1fm4y1x7az/?spm_id_from=333.1387.favlist.content.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
 - APP
 
@@ -181,12 +182,12 @@ title: 托福自学百分攻略(万字长文)
 
 一些对心态有帮助的资源：
 
-[杰哥写的心态急救指南](https://mp.weixin.qq.com/s/azLqJXSYtvqpJicuKQjRYQ)
+- [杰哥的心态急救指南](https://mp.weixin.qq.com/s/azLqJXSYtvqpJicuKQjRYQ)
 
 
-[Marcsims——[特别篇]我看了8个月的留学咨询，最严重的问题——机心太重](https://www.bilibili.com/video/BV1Gg4y1W7Zj/?spm_id_from=333.1387.upload.video_card.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
+- [Marcsims——[特别篇]我看了8个月的留学咨询，最严重的问题——机心太重](https://www.bilibili.com/video/BV1Gg4y1W7Zj/?spm_id_from=333.1387.upload.video_card.click&vd_source=06eccc818bbdab93d3e9fd2fe7834ac8)
 
-[Marcsims——简单谈一下新时代的竞争](https://www.bilibili.com/opus/1088145890217033752?spm_id_from=333.1387.0.0)
+- [Marcsims——简单谈一下新时代的竞争](https://www.bilibili.com/opus/1088145890217033752?spm_id_from=333.1387.0.0)
 
 <center>
 <img src="/blogs/toefl.assets/lijian.jpg" width="80%">
