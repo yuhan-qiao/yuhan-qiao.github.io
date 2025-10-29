@@ -80,12 +80,3 @@ h3 { font-size: 1.35em !important; }
 h4 { font-size: 1.15em !important; }
 h5 { font-size: 1.05em !important; }
 h6 { font-size: 0.95em !important; }
-
-/* ============================= */
-/*          段落优化（可选）      */
-/* ============================= */
-p {
-  font-size: 16px !important;
-  line-height: 1.75 !important;
-  color: #222 !important;
-}
