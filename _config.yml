@@ -17,7 +17,7 @@ owner:
   avatar: avatar4.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: yuhan.qiao.bjtu@gmail.com
-  cv: https://yuhan-qiao.github.io/file/cv.pdf
+  cv: https://yuhan-qiao.github.io/file/CV.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
@@ -59,7 +59,7 @@ links:
   #- title: 中文
   #  url: /cn/
   - title: CV
-    url: /file/cv.pdf
+    url: /file/CV.pdf
 
 
 # --------------------------------------------------
