@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2025
 
-- [托福自学百分攻略](https://yuhan-qiao.github.io/blogs/toefl/)<br>
+- [托福自学百分攻略（万字长文）](https://yuhan-qiao.github.io/blogs/toefl/)<br>
 
 ### 2024
 

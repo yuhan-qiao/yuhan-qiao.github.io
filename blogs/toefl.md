@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/toefl/index.html
-title: 托福自学百分攻略
+title: 托福自学百分攻略(万字长文)
 ---
 ## 前言 
 <br>
