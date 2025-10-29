@@ -1,14 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap');
 
-/* ============================= */
-/*       全站基础字体设置        */
-/* ============================= */
-body {
-  font-family: "Lora", "Georgia", serif !important;
-  font-weight: 400 !important;
-  color: #222 !important;
-  line-height: 1.7 !important;
-}
 
 /* ============================= */
 /*     顶部导航栏 + 网站名       */
