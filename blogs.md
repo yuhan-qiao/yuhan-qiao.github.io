@@ -26,13 +26,3 @@ title: Blogs
 
 <br>
 
-## Web Star History 点赞记录
-
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧！
-- [Leave a Github Star if you like it 🥰 Thank you so much!](https://github.com/GuangLun2000/GuangLun2000.github.io) 
-
-<br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
-
-Finally, my WeChat account is - lancecai2002
-
-<br>
