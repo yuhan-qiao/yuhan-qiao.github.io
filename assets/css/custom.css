@@ -81,11 +81,17 @@ h4 { font-size: 1.15em !important; }
 h5 { font-size: 1.05em !important; }
 h6 { font-size: 0.95em !important; }
 
-.site-footer, 
-.site-footer a, 
-.site-footer p {
-  color: #666 !important; /* 或你喜欢的页脚默认颜色 */
-  font-family: inherit !important; /* 保持和正文一致 */
+.site-footer,
+.site-footer p,
+.site-footer a {
+  color: #eeeeee !important;  /* 浅灰白色，醒目易读 */
+  font-family: "Lora", "Georgia", serif !important;  /* 保持全站字体风格 */
   font-weight: 400 !important;
   text-decoration: none !important;
+}
+
+/* 页脚链接悬停效果 */
+.site-footer a:hover {
+  color: #ffffff !important;  /* 悬停变纯白，更突出 */
+  text-decoration: underline !important;
 }
