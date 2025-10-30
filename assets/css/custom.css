@@ -99,3 +99,16 @@ h6 { font-size: 0.95em !important; }
   color: #ffffff !important;  /* 悬停更亮一点 */
   border-bottom-color: #fff !important;
 }
+
+.math, .MathJax_Display {
+  text-align: center !important;
+}
+
+blockquote {
+  text-align: center !important;
+}
+
+blockquote .MathJax_Display {
+  text-align: center !important;
+  margin: 0 auto !important;
+}
