@@ -14,7 +14,7 @@ title: Blogs
 - [托福自学百分攻略（万字长文）](https://yuhan-qiao.github.io/blogs/toefl/)<br>
 
 #### 2024
-- [读书笔记:南怀瑾著述《金刚经说什么》(三)](https://yuhan-qiao.github.io/blogs/jingangjing2/)<br>
+- [读书笔记:南怀瑾著述《金刚经说什么》(三)](https://yuhan-qiao.github.io/blogs/jingangjing3/)<br>
 
 - [读书笔记:南怀瑾著述《金刚经说什么》(二)](https://yuhan-qiao.github.io/blogs/jingangjing2/)<br>
 
