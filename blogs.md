@@ -15,13 +15,3 @@ title: Blogs
 - [22岁，站在人生的交叉路口](https://caihanlin.com/blogs/22yrs)<br>
 
 
-<br>
-
-## Leave a Message 欢迎留言
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
-
