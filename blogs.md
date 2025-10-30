@@ -14,8 +14,10 @@ title: Blogs
 - [托福自学百分攻略（万字长文）](https://yuhan-qiao.github.io/blogs/toefl/)<br>
 
 #### 2024
-读书笔记|余华著《我们生活在巨大的差距里》
-- [读书笔记：余华著《我们生活在巨大的差距里》](https://yuhan-qiao.github.io/blogs/chajv/)<br>
+
+- [读书笔记:钱钟书著《围城》](https://yuhan-qiao.github.io/blogs/weicheng/)<br>
+
+- [读书笔记:余华著《我们生活在巨大的差距里》](https://yuhan-qiao.github.io/blogs/chajv/)<br>
 
 - [读书笔记:南怀瑾著述《金刚经说什么》(六)](https://yuhan-qiao.github.io/blogs/jingangjing6/)<br>
 
