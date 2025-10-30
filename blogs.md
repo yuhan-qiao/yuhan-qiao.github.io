@@ -12,6 +12,6 @@ title: Blogs
 
 #### 2024
 
-- [22岁，站在人生的交叉路口](https://caihanlin.com/blogs/22yrs)<br>
+- [读书笔记|南怀瑾著述《金刚经说什么》(一)](https://yuhan-qiao.github.io/blogs/jingangjing1/)<br>
 
 
