@@ -15,6 +15,9 @@ title: Blogs
 
 #### 2024
 
+
+- [读书笔记:南怀瑾著述《金刚经说什么》(六)](https://yuhan-qiao.github.io/blogs/jingangjing6/)<br>
+
 - [读书笔记:南怀瑾著述《金刚经说什么》(五)](https://yuhan-qiao.github.io/blogs/jingangjing5/)<br>
 
 - [读书笔记:南怀瑾著述《金刚经说什么》(四)](https://yuhan-qiao.github.io/blogs/jingangjing4/)<br>
