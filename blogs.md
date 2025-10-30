@@ -15,7 +15,7 @@ title: Blogs
 
 #### 2024
 
-- [读书笔记|汪曾祺著《人间草木》](https://yuhan-qiao.github.io/blogs/renjiancaomu/)<br>
+- [读书笔记：汪曾祺著《人间草木》](https://yuhan-qiao.github.io/blogs/renjiancaomu/)<br>
 
 - [读书笔记:钱钟书著《围城》](https://yuhan-qiao.github.io/blogs/weicheng/)<br>
 
