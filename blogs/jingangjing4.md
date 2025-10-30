@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/jingangjing3/index.html
+permalink: /blogs/jingangjing4/index.html
 title: 读书笔记:南怀瑾著述《金刚经说什么》（四)
 ---
 ## 读书笔记:南怀瑾著述《金刚经说什么》(四)
