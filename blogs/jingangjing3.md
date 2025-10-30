@@ -9,7 +9,7 @@ title: 读书笔记:南怀瑾著述《金刚经说什么》（三)
 
 **好东西放在最前面**：
 
-[【【中文配音】Headspace正念冥想指南 全8集】](https://www.bilibili.com/video/BV1Pf4y157pj/)
+[【中文配音】Headspace正念冥想指南 全8集】](https://www.bilibili.com/video/BV1Pf4y157pj/)
 
 搬运自Netflix，Headspace是美国最大的两个正念冥想APP之一，本系列剧集《Headspace 冥想正念指南》一共有8集，每集时长20分钟，每一集都详解了一种生活中常见的心理问题以及对应的的正念技巧，最后以指导冥想结束。
 
