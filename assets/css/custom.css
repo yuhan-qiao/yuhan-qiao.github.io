@@ -20,7 +20,7 @@
   margin: 0 !important;
   padding: 0 !important;
   display: flex !important;
-  gap: 12px !important; /* 控制菜单间距 */
+  gap: 9px !important; /* 控制菜单间距 */
   align-items: center !important;
 }
 
