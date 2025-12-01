@@ -21,9 +21,10 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 
 ### Research Interests
 
-- Graph Representation Learning
-- Misinformation/Rumor/Fake News Detection
-- Semi-supervised/Self-Supervised Learning
+- Trustworthy and robust AI
+- Graph representation learning and social media analysis
+- Semi-/self-supervised learning for low-resource settings
+- Rumor and misinformation detection on social media
 
 ---
 
