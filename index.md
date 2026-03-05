@@ -15,7 +15,7 @@ Currently, I am taking a gap year to further prepare for my Ph.D. studies, and I
 
 Honestly, I consider myself a reliable and steady person with strong perseverance and a never-give-up attitude. I am always open to learning new knowledge and believe in continuous lifelong learning. I hope to find a Ph.D. supervisor whose research interests align with mine and whose personality is compatible.
 
-If you are interested in any aspect of me, I am always open to discussions. Feel free to contact me at **yuhan[dot]qiao[dot]bjtu[AT]gmail[dot]com**
+If you are interested in any aspect of me, I am always open to discussions. Feel free to contact me at yuhan [dot] qiao [dot] bjtu [AT] gmail [dot] com
 
 ---
 
