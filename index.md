@@ -14,9 +14,7 @@ My previous research focused on **graph representation learning** with an emphas
 
 Currently, I am actively seeking Ph.D. opportunities where I can continue advancing my academic career. I aspire to pursue my doctoral studies abroad to broaden my academic horizons, collaborate with outstanding researchers, and unlock my full research potential.
 
-Honestly, I consider myself a reliable and steady person with strong perseverance and a never-give-up attitude. I am always open to learning new knowledge and believe in continuous lifelong learning. I hope to find a Ph.D. supervisor whose research interests align with mine and whose personality is compatible.
-
-If you are interested in any aspect of me, I am always open to discussions. Feel free to contact me at yuhan [dot] qiao [dot] bjtu [AT] gmail [dot] com
+If you are interested in any aspect of me, I am always open to discussions. Feel free to contact me at **yuhan** [dot] **qiao** [dot] **bjtu** [AT] **gmail** [dot] **com**
 
 ---
 
@@ -73,10 +71,10 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 
 ### News and Updates
 
-- **Oct 2025**：I am currently seeking Ph.D. opportunities worldwide!
-- **Oct 2025**：My personal academic website is now online!
-- **Jun 2025**：After four TOEFL attempts, I achieved a score of 106/120, including a full score of 30/30 in Reading.
-- **Aug 2024**：One paper was accepted/published in _Neurocomputing_.
+- **Oct 2025**：I am currently seeking Ph.D. opportunities worldwide.
+- **Oct 2025**：My personal academic website is now online.
+- **Jun 2025**：After four attempts, I achieved a TOEFL score of 106/120, including a full score of 30/30 in Reading.
+- **Aug 2024**：One paper was published in _Neurocomputing_.
 - **Jun 2024**：I received my M.Eng. degree from Beijing Jiaotong University.
 
 <br>
