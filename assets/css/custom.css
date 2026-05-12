@@ -224,10 +224,14 @@ h6 { font-size: 0.95em !important; }
 
 .selected-publication img {
   display: block;
-  width: 48% !important;
-  max-width: 360px;
-  min-width: 220px;
+  width: 360px !important;
+  max-width: 48%;
+  height: auto !important;
   margin: 0.7em 0 0;
+}
+
+.selected-publication + .selected-publication {
+  border-top: 0;
 }
 
 .selected-publication-text {
@@ -255,7 +259,8 @@ h6 { font-size: 0.95em !important; }
 
   .selected-publication img {
     width: 58% !important;
-    min-width: 180px;
+    max-width: 260px;
+    height: auto !important;
   }
 }
 

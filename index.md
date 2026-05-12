@@ -53,10 +53,20 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
   <div class="selected-publication-text">
     <strong>A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection</strong>
     <br><strong>Yuhan Qiao</strong>, Chaoqun Cui, Yiying Wang, Caiyan Jia*
-    <br><em>Neurocomputing</em> (SCI, IF = 6.5, JCR Q1), Aug 2024
-    <br><a href="https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf"><strong>PDF</strong></a> · <a href="https://github.com/yuhan-qiao/RDST"><strong>CODE</strong></a>
+    <br><strong><em>Neurocomputing</em></strong> (SCI, IF = 6.5, JCR Q1), Aug 2024
+    <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf">PDF</a>]</em> <em>[<a href="https://github.com/yuhan-qiao/RDST">CODE</a>]</em>
   </div>
   <img src="{{ site.url }}/RDST.png" alt="Overview of the RDST framework">
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-text">
+    <strong>Rumor Detection on Social Media based on Graph Contrastive Self-Supervised Learning</strong> (in Chinese)
+    <br><strong>Yuhan Qiao</strong>, Caiyan Jia*
+    <br><strong><em>Journal of Nanjing University (Natural Sciences)</em></strong>, Sep 2023
+    <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/nanjing.pdf">PDF</a>]</em>
+  </div>
+  <img src="{{ site.url }}/GCSL.png" alt="Overview of the GCSL framework">
 </div>
 
 ---
