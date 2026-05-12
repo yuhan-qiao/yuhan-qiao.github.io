@@ -144,8 +144,12 @@ h6 { font-size: 0.95em !important; }
 
 /* Clean image layouts for hobby pages */
 .hobby-feature {
-  margin: 0.8em auto 1.4em;
+  margin: 0.75em auto 1.15em;
   max-width: 760px;
+}
+
+.hobby-feature-compact {
+  max-width: 560px;
 }
 
 .hobby-feature img {
@@ -159,7 +163,7 @@ h6 { font-size: 0.95em !important; }
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
-  margin: 0.8em 0 1.3em;
+  margin: 0.75em 0 1.05em;
 }
 
 .hobby-grid img {
@@ -181,6 +185,11 @@ h6 { font-size: 0.95em !important; }
 }
 
 @media (max-width: 760px) {
+  .hobby-feature,
+  .hobby-feature-compact {
+    max-width: none;
+  }
+
   .hobby-grid {
     grid-template-columns: 1fr;
     gap: 10px;
