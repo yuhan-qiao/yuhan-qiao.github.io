@@ -4,7 +4,11 @@ layout: page
 
 ### About Me
 
-<img src="{{ site.url }}/qyh_victoria.JPG" class="floatpic homepage-photo" alt="Yuhan Qiao at Victoria Harbour">
+<figure class="homepage-photo-wrap">
+  <img src="{{ site.url }}/qyh_victoria.JPG" class="homepage-photo" alt="Yuhan Qiao at Victoria Harbour">
+  <figcaption>Taken in May 2026, at Victoria Harbour🚢</figcaption>
+</figure>
+
 Hi! I'm Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/).
 
 My previous research focused on **graph representation learning** with an emphasis on improving model generalization and robustness through **self-supervised** and **semi-supervised learning** approaches. Specifically, I explored applying these methods to the task of **rumor (misinformation) detection**, where labeled rumor data is often scarce. 
@@ -37,6 +41,20 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 - Graph representation learning and social media analysis
 - Semi-/self-supervised learning for low-resource settings
 - Rumor and misinformation detection on social media
+
+---
+
+### Selected Publications
+
+<div class="selected-publication">
+  <img src="{{ site.url }}/RDST.png" alt="Overview of the RDST framework">
+  <div class="selected-publication-text">
+    <strong>A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection</strong>
+    <br><strong>Yuhan Qiao</strong>, Chaoqun Cui, Yiying Wang, Caiyan Jia*
+    <br><em>Neurocomputing</em> (SCI, IF = 6.5, JCR Q1), Aug 2024
+    <br><a href="https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf"><strong>PDF</strong></a> · <a href="https://github.com/yuhan-qiao/RDST"><strong>CODE</strong></a>
+  </div>
+</div>
 
 ---
 
