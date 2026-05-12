@@ -81,6 +81,43 @@ h4 { font-size: 1.15em !important; }
 h5 { font-size: 1.05em !important; }
 h6 { font-size: 0.95em !important; }
 
+/* Wider reading columns across the site */
+@media only screen and (min-width: 37.5em) {
+  #main article,
+  #index {
+    width: 66.6667% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .related-articles,
+  .footer-wrap footer {
+    width: 66.6667% !important;
+    margin-left: 25% !important;
+    margin-right: 8.3333% !important;
+  }
+}
+
+@media only screen and (min-width: 86.375em) {
+  .article-author-top {
+    width: 12.5% !important;
+    margin-left: 8.3333% !important;
+    margin-right: 4.1667% !important;
+  }
+
+  #main article,
+  #index {
+    width: 58.3333% !important;
+  }
+
+  .related-articles,
+  .footer-wrap footer {
+    width: 58.3333% !important;
+    margin-left: 25% !important;
+    margin-right: 16.6667% !important;
+  }
+}
+
 /* Homepage portrait image */
 img.homepage-photo {
   width: 42% !important;

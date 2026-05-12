@@ -4,7 +4,7 @@ remote_theme: mmistakes/minimal-mistakes
 # --------------------------------------------------
 title: Yuhan Qiao   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Yuhan Qiao. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Yuhan Qiao, PhD Student at Beijing JiaoTong University.  # Strongly recommended for SEO & social cards
+description: Here is personal website of Yuhan Qiao, PhD Student at Beijing Jiaotong University.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
