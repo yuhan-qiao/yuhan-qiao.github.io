@@ -23,15 +23,19 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 
 ### Education
 
-- **TOEFL iBT: 106/120**  
-  Reading 30/30, Listening 26, Speaking 23, Writing 27
-
 - **M.Eng. in Computer Science & Technology**, [Beijing Jiaotong University](https://www.bjtu.edu.cn/)  
   GPA: 3.65/4.00; Average Score: 87.6/100  
   Advisor: [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/)
 
 - **B.Eng. in Information Engineering**, [China University of Mining & Technology (Beijing)](https://www.cumtb.edu.cn/)  
   GPA: 3.82/4.00; Average Score: 90.5/100; Top 5%
+
+---
+
+### English Proficiency
+
+- **TOEFL iBT: 106/120**  
+  Reading 30/30, Listening 26, Speaking 23, Writing 27
 
 ---
 
