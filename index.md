@@ -6,7 +6,6 @@ layout: page
 
 <figure class="homepage-photo-wrap">
   <img src="{{ site.url }}/qyh_victoria.JPG" class="homepage-photo" alt="Yuhan Qiao at Victoria Harbour">
-  <figcaption>Taken in May 2026, at Victoria Harbour🚢</figcaption>
 </figure>
 
 Hi! I'm Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/).
@@ -28,7 +27,7 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
   Advisor: [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/)
 
 - **B.Eng. in Information Engineering**, [China University of Mining & Technology (Beijing)](https://www.cumtb.edu.cn/)  
-  GPA: 3.82/4.00; Average Score: 90.5/100; Top 5%
+  GPA: 3.82/4.00; Average Score: 90.5/100; **Top 5%**
 
 ---
 
@@ -51,13 +50,13 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 ### Selected Publications
 
 <div class="selected-publication">
-  <img src="{{ site.url }}/RDST.png" alt="Overview of the RDST framework">
   <div class="selected-publication-text">
     <strong>A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection</strong>
     <br><strong>Yuhan Qiao</strong>, Chaoqun Cui, Yiying Wang, Caiyan Jia*
     <br><em>Neurocomputing</em> (SCI, IF = 6.5, JCR Q1), Aug 2024
     <br><a href="https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf"><strong>PDF</strong></a> · <a href="https://github.com/yuhan-qiao/RDST"><strong>CODE</strong></a>
   </div>
+  <img src="{{ site.url }}/RDST.png" alt="Overview of the RDST framework">
 </div>
 
 ---
