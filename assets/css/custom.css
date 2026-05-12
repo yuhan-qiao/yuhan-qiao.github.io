@@ -224,6 +224,15 @@ h6 { font-size: 0.95em !important; }
   margin: 0 !important;
 }
 
+.homepage-photo-caption {
+  margin-top: 0.24em;
+  color: #8a8a8a;
+  font-size: 0.62em;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+}
+
 .selected-publication {
   margin: 0.65em 0 1.2em;
   padding: 0.7em 0 0.85em;
