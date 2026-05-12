@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-<img src="https://yuhan-qiao.github.io/qyh6.jpg" class="floatpic">
+<img src="{{ site.url }}/qyh_victoria.JPG" class="floatpic homepage-photo" alt="Yuhan Qiao at Victoria Harbour">
 Here is Yuhan Qiao (John, 乔禹涵).<br>
 
 I received my Master's degree in _Computer Science & Technology_ from [Beijing JiaoTong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/). Before that, I obtained my Bachelor's degree in _Infomation Engineering_ from [China University of Mining & Technology (Beijing)](https://www.cumtb.edu.cn/). 

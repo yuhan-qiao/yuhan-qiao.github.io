@@ -81,6 +81,29 @@ h4 { font-size: 1.15em !important; }
 h5 { font-size: 1.05em !important; }
 h6 { font-size: 0.95em !important; }
 
+/* Homepage portrait image */
+img.homepage-photo {
+  width: 42% !important;
+  max-width: 340px !important;
+  min-width: 230px !important;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: 78% 50%;
+  margin: 0.25em 0 1em 1.25em !important;
+}
+
+@media (max-width: 640px) {
+  img.homepage-photo {
+    float: none !important;
+    display: block;
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0 !important;
+    margin: 0.5em 0 1em 0 !important;
+    object-position: 76% 50%;
+  }
+}
+
 .site-footer .footer-text {
   color: #eeeeee !important;     /* 灰白色，黑底更清晰 */
   font-family: "Lora", "Georgia", serif !important;
