@@ -83,6 +83,18 @@ h6 { font-size: 0.95em !important; }
 
 /* Wider reading columns across the site */
 @media only screen and (min-width: 37.5em) {
+  .site-name {
+    width: 16.6667% !important;
+    margin-left: 4.1667% !important;
+    margin-right: 4.1667% !important;
+  }
+
+  .top-navigation {
+    width: 66.6667% !important;
+    margin-left: 0 !important;
+    margin-right: 8.3333% !important;
+  }
+
   #main article,
   #index {
     width: 66.6667% !important;
@@ -99,6 +111,18 @@ h6 { font-size: 0.95em !important; }
 }
 
 @media only screen and (min-width: 86.375em) {
+  .site-name {
+    width: 12.5% !important;
+    margin-left: 8.3333% !important;
+    margin-right: 4.1667% !important;
+  }
+
+  .top-navigation {
+    width: 58.3333% !important;
+    margin-left: 0 !important;
+    margin-right: 16.6667% !important;
+  }
+
   .article-author-top {
     width: 12.5% !important;
     margin-left: 8.3333% !important;
@@ -115,6 +139,60 @@ h6 { font-size: 0.95em !important; }
     width: 58.3333% !important;
     margin-left: 25% !important;
     margin-right: 16.6667% !important;
+  }
+}
+
+/* Clean image layouts for hobby pages */
+.hobby-feature {
+  margin: 0.8em auto 1.4em;
+  max-width: 760px;
+}
+
+.hobby-feature img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0.8em 0 1.3em;
+}
+
+.hobby-grid img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+}
+
+.hobby-float {
+  float: right;
+  width: 28%;
+  max-width: 220px;
+  min-width: 160px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: 50% 28%;
+  margin: 0.2em 0 0.8em 1.2em;
+}
+
+@media (max-width: 760px) {
+  .hobby-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .hobby-float {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    margin: 0.5em 0 1em;
   }
 }
 

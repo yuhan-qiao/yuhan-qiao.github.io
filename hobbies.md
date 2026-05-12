@@ -7,10 +7,10 @@ title: Hobbies
 ### Hobbies
 
 #### Reading, Writing Blogs & Meditation
-<center>
-<img src="/images/medi4.jpg" width="80%">
-</center>
-<br>
+
+<div class="hobby-feature">
+  <img src="/images/medi4.jpg" alt="Reading, writing, and meditation">
+</div>
 
 I enjoy reading beyond my academic field, keeping reading notes, and writing blog posts. I have a broad interest in **history**, **psychology**, and traditional Chinese **philosophy**. Through reading, I seek a better understanding of my inner self — how my emotions work and how to live in harmony with my own mind.
 
@@ -20,25 +20,22 @@ You’re welcome to follow my **WeChat public account**: **_CowboyJohnny_**, whe
 
 #### Singing & Concert
 
-<div class="third">
-<img src="/images/sing777.png">
-<img src="/images/sing222.png">
-<img src="/images/qyh.jpg">
+<div class="hobby-grid">
+  <img src="/images/sing777.png" alt="Singing performance">
+  <img src="/images/sing222.png" alt="Concert performance">
+  <img src="/images/qyh.jpg" alt="After a singing performance">
 </div>
-<br>
 
-<img src="/images/sing11.jpg" class="floatpic" width="200">
-
-<br>
+<img src="/images/sing11.jpg" class="hobby-float" alt="Singing portrait">
 
 In addition, I have a deep passion for music, which I believe can express emotions too subtle for words. I often attend concerts and live performances, and I also enjoy singing pop songs myself. For me, singing is a wonderful way to relieve the stress that sometimes comes with research. Although I tend to be introverted, I once stepped out of my comfort zone to perform a solo rendition of Beyond’s classic song (海阔天空) at my graduate farewell party. I also play the clarinet and obtained a Level 7 Certificate from the Central Conservatory of Music during my childhood.<br>
 
 #### Football
-<div class="third">
-<img src="/images/football1.png">
-<img src="/images/football2.jpg">
-<img src="/images/football5.jpeg">
+
+<div class="hobby-grid">
+  <img src="/images/football1.png" alt="Football memory">
+  <img src="/images/football2.jpg" alt="Football match">
+  <img src="/images/football5.jpeg" alt="Football stadium">
 </div>
-<br>
 
 I am also a passionate football fan. I enjoy both playing the sport and watching top-level European matches. For me, football means far more than just a game — its spirit of perseverance constantly inspires me in life. My favorite team is Real Madrid, a club I have supported for 15 years. What attracts me most is their **Never-Give-Up** attitude. Players like Cristiano Ronaldo embody the belief that even in adversity, one should never lose hope and must fight until the very last moment. Over the years, we have witnessed countless miracles together, and that unyielding spirit continues to guide me not only on the field but also in my research — where persistence and resilience are equally essential.
