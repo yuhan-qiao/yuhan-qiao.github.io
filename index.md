@@ -6,7 +6,6 @@ layout: page
 
 <figure class="homepage-photo-wrap">
   <img src="{{ site.url }}/qyh_victoria.JPG" class="homepage-photo" alt="Yuhan Qiao at Victoria Harbour">
-  <figcaption>Victoria Harbour, Hong Kong · May 2026</figcaption>
 </figure>
 
 Hi! I'm Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/).
