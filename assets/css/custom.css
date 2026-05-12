@@ -211,7 +211,7 @@ h6 { font-size: 0.95em !important; }
   width: 42%;
   max-width: 340px;
   min-width: 230px;
-  margin: 0.15em 0 0.35em 1.1em;
+  margin: 0.15em 0 0.18em 1.1em;
 }
 
 .homepage-photo-wrap img.homepage-photo {
@@ -222,6 +222,15 @@ h6 { font-size: 0.95em !important; }
   object-fit: cover;
   object-position: 78% 50%;
   margin: 0 !important;
+}
+
+.homepage-photo-wrap figcaption {
+  margin-top: 0.28em;
+  color: #8a8a8a;
+  font-size: 0.62em;
+  font-style: italic;
+  line-height: 1.25;
+  text-align: center;
 }
 
 .selected-publication {
