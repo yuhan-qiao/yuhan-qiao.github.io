@@ -18,7 +18,7 @@ owner:
   avatar: avatar4.jpg
   bio: Stay Curious, Stay Grounded.
   email: yuhan.qiao.bjtu@gmail.com
-  cv: https://yuhan-qiao.github.io/file/CV_2025.1202.pdf
+  cv: https://yuhan-qiao.github.io/file/CV2026_5.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
@@ -60,7 +60,7 @@ links:
   #- title: 中文
   #  url: /cn/
   - title: CV
-    url: /file/CV_2025.1202.pdf
+    url: /file/CV2026_5.pdf
 
 
 # --------------------------------------------------
