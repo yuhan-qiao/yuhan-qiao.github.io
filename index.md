@@ -37,10 +37,11 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 
 ### Research Interests
 
-- Trustworthy and robust AI
-- Graph representation learning and social media analysis
-- Semi-/self-supervised learning for low-resource settings
-- Rumor and misinformation detection on social media
+- Trustworthy, robust, and generalizable AI
+- Natural language processing and large language models
+- LLM-based agents: memory, tool use, and multi-agent collaboration
+- Information reliability, social media analysis and AI for society
+- Graph learning
 
 ---
 
@@ -70,6 +71,7 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 
 ### News and Updates
 
+- **Mar 2026**：One paper was submitted to _Information Processing and Management_(Second Author).
 - **Oct 2025**：I am currently seeking Ph.D. opportunities worldwide.
 - **Oct 2025**：My personal academic website is now online.
 - **Jun 2025**：After four attempts, I achieved a TOEFL score of 106/120, including a full score of 30/30 in Reading.
