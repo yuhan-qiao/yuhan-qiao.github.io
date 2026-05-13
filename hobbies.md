@@ -14,7 +14,7 @@ title: Hobbies
   <img src="/images/football5.jpeg" alt="Football stadium">
 </div>
 
-I am also a passionate football fan. I enjoy both playing the football and watching top-level European matches. For me, football means far more than just a game. I enjoy the spirit of teamwork, resilience, and persistence in football, which also reminds me of the patience and determination needed in research. My favorite team is Real Madrid, a club I have supported for 15 years. What attracts me most is their **Never-Give-Up** attitude. Players like Cristiano Ronaldo embody the belief that even in adversity, one should never lose hope and must fight until the very last moment.
+I am a passionate football fan. I enjoy both playing the football and watching top-level European matches. For me, football means far more than just a game. I enjoy the spirit of teamwork, resilience, and persistence in football, which also reminds me of the patience and determination needed in research. My favorite team is Real Madrid, a club I have supported for 15 years. What attracts me most is their **Never-Give-Up** attitude. Players like Cristiano Ronaldo embody the belief that even in adversity, one should never lose hope and must fight until the very last moment.
 
 #### Singing & Concert
 
