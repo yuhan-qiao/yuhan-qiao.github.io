@@ -28,10 +28,6 @@ If you are interested in any aspect of me, I am always open to discussions. Feel
 - **B.Eng. in Information Engineering**, [China University of Mining & Technology (Beijing)](https://www.cumtb.edu.cn/)  
   GPA: 3.82/4.00; Average Score: 90.5/100; **Top 5%**
 
----
-
-### English Proficiency
-
 - **TOEFL iBT: 106/120**  
   Reading 30/30, Listening 26, Speaking 23, Writing 27
 
