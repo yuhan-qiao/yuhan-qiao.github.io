@@ -9,13 +9,11 @@ layout: page
   <div class="homepage-photo-caption">Victoria Harbour, Hong Kong · May 2026</div>
 </figure>
 
-Hi! I'm Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/).
+Hi!😄 I am Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/). My previous research focused on **graph representation learning** with an emphasis on improving model generalization and robustness through **self-supervised** and **semi-supervised learning** approaches. Specifically, I explored applying these methods to the task of **rumor (misinformation) detection**, where labeled rumor data is often scarce. 
 
-My previous research focused on **graph representation learning** with an emphasis on improving model generalization and robustness through **self-supervised** and **semi-supervised learning** approaches. Specifically, I explored applying these methods to the task of **rumor (misinformation) detection**, where labeled rumor data is often scarce. 
+My current interests broadly center on trustworthy AI, NLP, graph Learning, large language models, and LLM-based agents. I am particularly interested in developing robust and generalizable AI methods for complex real-world information environments.
 
-Currently, I am actively seeking Ph.D. opportunities where I can continue advancing my academic career. I aspire to pursue my doctoral studies abroad to broaden my academic horizons, collaborate with outstanding researchers, and unlock my full research potential.
-
-If you are interested in any aspect of me, I am always open to discussions. Feel free to contact me at **yuhan** [dot] **qiao** [dot] **bjtu** [AT] **gmail** [dot] **com**
+Currently, I am actively seeking Ph.D. opportunities where I can continue advancing my academic career. I am always open to research discussions and Ph.D./RA opportunities. Please feel free to contact me by email: **yuhan** [dot] **qiao** [dot] **bjtu** [AT] **gmail** [dot] **com**
 
 ---
 
