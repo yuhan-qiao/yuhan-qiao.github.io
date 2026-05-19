@@ -9,7 +9,7 @@ layout: page
   <div class="homepage-photo-caption">Victoria Harbour, Hong Kong · May 2026</div>
 </figure>
 
-Hello!😄 I am Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/). My research background lies in graph representation learning, semi-/self-supervised learning, and rumor (misinformation) detection on social media.
+Hello!😄 I am Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **NLP**, **graph learning**, and **LLM agents**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/). My previous research focused on graph representation learning with an emphasis on improving model generalization and robustness through self/semi-supervised approaches. Specifically, I explored applying these methods to the task of rumor (misinformation) detection.
 
 My current interests broadly center on trustworthy AI, NLP, graph Learning, large language models, and LLM-based agents. I am particularly interested in developing robust and generalizable AI methods for complex real-world information environments.
 
@@ -37,9 +37,9 @@ Currently, I am actively seeking Ph.D. opportunities where I can continue advanc
 
 - Trustworthy, robust, and generalizable AI
 - Natural language processing and large language models
-- Self-evolving LLM agents with memory and multi-agent collaboration
-- Information reliability, social media analysis and AI for society
-- Graph learning
+- LLM-based agents, memory, and collaborative reasoning
+- Information reliability, misinformation detection and AI-generated content detection
+- Graph learning for social and information networks
 
 ---
 
