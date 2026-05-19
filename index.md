@@ -11,7 +11,7 @@ layout: page
 
 Hello!😄 I am Yuhan Qiao (乔禹涵, John), a prospective Ph.D. applicant interested in **trustworthy AI**, **natural language processing**, **graph learning**, and **large language models**. I received my Master's degree in _Computer Science & Technology_ from [Beijing Jiaotong University](https://www.bjtu.edu.cn/) in 2024, supervised by [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/). 
 
-My previous research focused on graph representation learning, with an emphasis on improving model generalization and robustness through self- and semi-supervised learning. In particular, I applied these methods to rumor and misinformation detection, a task that lies at the intersection of natural language processing, social computing, and information reliability.
+My previous research focused on **graph representation learning**, with an emphasis on improving model generalization and robustness through **self- and semi-supervised learning**. In particular, I applied these methods to **rumor and misinformation detection**, a task that lies at the intersection of natural language processing, social computing, and information reliability.
 
 In the era of generative models, as large-scale AI systems generate an increasing amount of online content, obtaining reliable information has become more challenging and more important than ever. In my future Ph.D. research, I hope to study robust, adaptive, and responsible AI systems that can better support information reliability in dynamic real-world environments. More broadly, I hope my research can contribute to building greater trust in the information and AI systems that people interact with every day.
 
