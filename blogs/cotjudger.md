@@ -15,9 +15,11 @@ window.MathJax = {
 
 ## 论文笔记：CoTJudger 如何衡量大模型推理中的冗余？
 
-论文：**CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs**  
-时间：2026 年 3 月 10 日  
-项目地址：[https://github.com/41ForOne/CoTJudger](https://github.com/41ForOne/CoTJudger)
+论文标题：**CoTJudger: A Graph-Driven Framework for Automatic Evaluation of Chain-of-Thought Efficiency and Redundancy in LRMs**<br>
+论文地址：[https://arxiv.org/abs/2603.07078](https://arxiv.org/abs/2603.07078)<br>
+项目地址：[https://github.com/41ForOne/CoTJudger](https://github.com/41ForOne/CoTJudger)<br>
+作者单位：University of Science and Technology of China；ByteDance SEED；Shenzhen University of Advanced Technology；Shenzhen Institutes of Advanced Technology, CAS；Southeast University；UNSW Sydney；Nanjing University；Beihang University；University of Manchester<br>
+时间：2026 年 3 月 7 日
 
 ### 一句话概括
 
@@ -67,7 +69,7 @@ $$
 G = (V, E)
 $$
 
-其中，节点 $V$ 是原子化后的推理步骤，边 $E$ 表示步骤之间的逻辑依赖、顺序推进、回溯、重复或跳转。这样一来，冗余不再只是“字数多”，而变成了图上的结构：哪些节点被最短有效路径使用，哪些节点只是绕路、重复或无效分支。
+其中，节点 $V$ 是原子化（原文用词为atomization，这里可以引申为一个推理思考步骤的最小单元）后的推理步骤，边 $E$ 表示步骤之间的逻辑依赖、顺序推进、回溯、重复或跳转。这样一来，冗余不再只是“字数多”，而变成了图上的结构：哪些节点被最短有效路径使用，哪些节点只是绕路、重复或无效分支。
 
 ### 3. 创新点：CoTJudger 做了什么
 
@@ -109,6 +111,17 @@ V = \{N_1, N_2, \ldots, N_n\}
 $$
 
 这里有一个细节值得注意：模型不是重写原文，而是输出 index-level 的结构编辑，减少改写带来的语义噪声。
+作者不希望 GPT-5 直接重写 CoT，因为一旦重写，就可能改变原意。比如模型原来写得很啰嗦、犹豫、错误，如果 GPT-5 把它润色了，后面的冗余分析就不真实了。
+
+所以它不是让 GPT-5 输出新文本，而是让它输出类似：
+
+```text
+Merge steps 3-4.
+Split step 7 into two parts.
+Keep step 8 unchanged.
+```
+
+这叫 index-level structural edits：只改结构，不改内容。论文说这样可以减少 paraphrasing noise。
 
 #### 4.2 Atomic Node Classification
 
