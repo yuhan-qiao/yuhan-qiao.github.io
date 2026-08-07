@@ -11,6 +11,8 @@ title: Blogs
 
 #### 2026
 
+- [视频笔记：《The Zen of Research（科研之道）》](https://yuhan-qiao.github.io/blogs/zen-of-research/)<br>
+
 - [论文笔记：CoTJudger 如何衡量大模型推理中的冗余？](https://yuhan-qiao.github.io/blogs/cotjudger/)<br>
 
 #### 2025
@@ -36,4 +38,3 @@ title: Blogs
 - [读书笔记:南怀瑾著述《金刚经说什么》(二)](https://yuhan-qiao.github.io/blogs/jingangjing2/)<br>
 
 - [读书笔记:南怀瑾著述《金刚经说什么》(一)](https://yuhan-qiao.github.io/blogs/jingangjing1/)<br>
-
