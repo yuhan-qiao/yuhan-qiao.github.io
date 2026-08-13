@@ -26,7 +26,7 @@ Currently, I am seeking Ph.D. opportunities and am always open to research discu
   Advisor: [Prof. Caiyan Jia](https://faculty.bjtu.edu.cn/8097/)
 
 - **B.Eng. in Information Engineering**, [China University of Mining & Technology (Beijing)](https://www.cumtb.edu.cn/)  
-  GPA: 3.82/4.00; Average Score: 90.5/100; Class Rank: 4/67 (Top 5%)
+  GPA: 3.82/4.00; Average Score: 90.5/100; Class Rank: 4/67
 
 <div class="education-subheading">English Proficiency</div>
 
