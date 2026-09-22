@@ -49,22 +49,22 @@ Currently, I am seeking Ph.D. opportunities and am always open to research discu
 
 <div class="selected-publication">
   <div class="selected-publication-text">
-    <strong>A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection</strong>
-    <br><strong>Yuhan Qiao</strong>, Chaoqun Cui, Yiying Wang, Caiyan Jia*
-    <br><strong><em>Neurocomputing</em></strong> (SCI, IF = 6.5, JCR Q1), Aug 2024
-    <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf">PDF</a>]</em> <em>[<a href="https://github.com/yuhan-qiao/RDST">CODE</a>]</em>
-  </div>
-  <img src="{{ site.url }}/RDST.png" alt="Overview of the RDST framework">
-</div>
-
-<div class="selected-publication">
-  <div class="selected-publication-text">
     <strong>RumorGAL: Graph-Anchored LLM for Domain-Generalized Rumor Detection</strong>
     <br>Lina Han, <strong>Yuhan Qiao</strong>, Feiyang Jia, Yan Zhao, Caiyan Jia*
     <br><strong><em>Information Processing and Management</em></strong> (SCI, IF = 8.1, JCR Q1), Sep 2026 (Accepted)
     <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/RumorGAL.pdf">PDF (preprint)</a>]</em>
   </div>
   <img src="{{ site.url }}/RumorGAL.png" alt="Overview of the RumorGAL framework">
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-text">
+    <strong>A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection</strong>
+    <br><strong>Yuhan Qiao</strong>, Chaoqun Cui, Yiying Wang, Caiyan Jia*
+    <br><strong><em>Neurocomputing</em></strong> (SCI, IF = 6.5, JCR Q1), Aug 2024
+    <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf">PDF</a>]</em> <em>[<a href="https://github.com/yuhan-qiao/RDST">CODE</a>]</em>
+  </div>
+  <img src="{{ site.url }}/RDST.png" alt="Overview of the RDST framework">
 </div>
 
 <div class="selected-publication">
