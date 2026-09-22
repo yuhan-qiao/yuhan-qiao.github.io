@@ -265,6 +265,32 @@ h6 { font-size: 0.95em !important; }
   line-height: 1.55;
 }
 
+.selected-publication .conference-photo {
+  width: 100%;
+  max-width: 560px;
+  margin: 1.1em 0 0;
+}
+
+.selected-publication .conference-photo img {
+  width: 100% !important;
+  max-width: 100%;
+  height: auto !important;
+  margin: 0;
+}
+
+.conference-photo figcaption {
+  margin: 0.5em 0 0;
+  color: #666;
+  font-family: inherit;
+  font-size: 0.75em;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.conference-photo figcaption::before {
+  content: none;
+}
+
 @media (max-width: 640px) {
   .homepage-photo-wrap {
     float: none !important;

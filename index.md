@@ -75,6 +75,10 @@ Currently, I am seeking Ph.D. opportunities and am always open to research discu
     <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/nanjing.pdf">PDF</a>]</em>
   </div>
   <img src="{{ site.url }}/GCSL.png" alt="Overview of the GCSL framework">
+  <figure class="conference-photo">
+    <img src="{{ site.url }}/images/ccml2023.jpg" alt="Yuhan Qiao giving an oral presentation at CCML 2023" width="1920" height="1280" loading="lazy">
+    <figcaption>Oral presentation at CCML 2023 — the 19th China Conference on Machine Learning<br><span lang="zh-CN">第十九届中国机器学习会议口头报告</span></figcaption>
+  </figure>
 </div>
 
 ---
