@@ -265,13 +265,22 @@ h6 { font-size: 0.95em !important; }
   line-height: 1.55;
 }
 
-.selected-publication .conference-photo {
-  width: 100%;
-  max-width: 560px;
-  margin: 1.1em 0 0;
+.publication-media {
+  display: grid;
+  grid-template-columns: minmax(0, 1.283fr) minmax(0, 1fr);
+  align-items: start;
+  gap: 18px;
+  max-width: 660px;
+  margin-top: 0.7em;
 }
 
-.selected-publication .conference-photo img {
+.selected-publication .conference-photo {
+  width: 100%;
+  min-width: 0;
+  margin: 0;
+}
+
+.selected-publication .publication-media img {
   width: 100% !important;
   max-width: 100%;
   height: auto !important;
@@ -282,7 +291,7 @@ h6 { font-size: 0.95em !important; }
   margin: 0.5em 0 0;
   color: #666;
   font-family: inherit;
-  font-size: 0.75em;
+  font-size: 0.62em;
   line-height: 1.5;
   text-align: center;
 }
