@@ -8,8 +8,8 @@ title: Publications
 
 ### Journal Paper
 
-- RumorGAL: Graph-Anchored LLM for Domain-Generalized Rumor Detection<br>Lina Han, **Yuhan Qiao**, Feiyang Jia, Yan Zhao, Caiyan Jia\*<br>
-**_Information Processing and Management_** (Under Review, submitted in Mar 2026)<br>
+- RumorGAL: Graph-Anchored LLM for Domain-Generalized Rumor Detection [[**PDF (preprint)**]](https://yuhan-qiao.github.io/mypaper/journal/RumorGAL.pdf)<br>Lina Han, **Yuhan Qiao**, Feiyang Jia, Yan Zhao, Caiyan Jia\*<br>
+**_Information Processing and Management_** (SCI, IF = 8.1, JCR Q1), Sep 2026 (Accepted)<br>
 
 
 - A Debiased Self-Training Framework with Graph Self-Supervised Pre-training Aided for Semi-Supervised Rumor Detection [[**PDF**]](https://yuhan-qiao.github.io/mypaper/journal/neurocom.pdf) [[**CODE**]](https://github.com/yuhan-qiao/RDST)<br>**Yuhan Qiao**, Chaoqun Cui, Yiying Wang, Caiyan Jia\*<br>

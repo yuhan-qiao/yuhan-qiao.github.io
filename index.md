@@ -71,7 +71,7 @@ Currently, I am seeking Ph.D. opportunities and am always open to research discu
 
 ### News and Updates
 
-- **Mar 2026**：One paper was submitted to _Information Processing and Management_ (Second Author).
+- **Sep 2026**：One paper was accepted by _Information Processing and Management_ (Second Author).
 - **Oct 2025**：I am currently seeking Ph.D. opportunities worldwide.
 - **Oct 2025**：My personal academic website is now online.
 - **Jun 2025**：After four attempts, I achieved a TOEFL score of 106/120, including a full score of 30/30 in Reading.
