@@ -51,8 +51,8 @@ Currently, I am seeking Ph.D. opportunities and am always open to research discu
   <div class="selected-publication-text">
     <strong>RumorGAL: Graph-Anchored LLM for Domain-Generalized Rumor Detection</strong>
     <br>Lina Han, <strong>Yuhan Qiao</strong>, Feiyang Jia, Yan Zhao, Caiyan Jia*
-    <br><strong><em>Information Processing and Management</em></strong> (SCI, IF = 8.1, JCR Q1), Sep 2026 (Accepted)
-    <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/RumorGAL.pdf">PDF (preprint)</a>]</em>
+    <br><strong><em>Information Processing and Management</em></strong> (SCI, IF = 8.1, JCR Q1), Sep 2026
+    <br><em>[<a href="https://yuhan-qiao.github.io/mypaper/journal/RumorGAL.pdf">PDF</a>]</em>
   </div>
   <img src="{{ site.url }}/RumorGAL.png" alt="Overview of the RumorGAL framework">
 </div>
@@ -87,7 +87,7 @@ Currently, I am seeking Ph.D. opportunities and am always open to research discu
 
 ### News and Updates
 
-- **Sep 2026**：One paper was accepted by _Information Processing and Management_ (Second Author).
+- **Sep 2026**：One paper was published in _Information Processing and Management_ (Second Author).
 - **Oct 2025**：I am currently seeking Ph.D. opportunities worldwide.
 - **Oct 2025**：My personal academic website is now online.
 - **Jun 2025**：After four attempts, I achieved a TOEFL score of 106/120, including a full score of 30/30 in Reading.
